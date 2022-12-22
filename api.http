@@ -19,4 +19,4 @@ Content-Type: application/json
 
 ### Get POSTS
 GET https://microbloglite.herokuapp.com/api/posts
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNuayIsImlhdCI6MTY3MDU5NTUxMywiZXhwIjoxNjcwNjgxOTEzfQ.UY21M8XBMVumv257Zr_gdqv6K9o3RCvle_2Kw00iQKc
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNuayIsImlhdCI6MTY3MTcyNTM1NCwiZXhwIjoxNjcxODExNzU0fQ.6-90Sc_h2PAT2maFZOp-GRhlrNULrN-5JQC071nHoAI
